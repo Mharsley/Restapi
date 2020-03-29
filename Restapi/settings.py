@@ -30,6 +30,8 @@ ALLOWED_HOSTS = ["*"]
 
 # Application definition
 
+#Joe once daily frolicked with, giraffes, elephants, cheetahs, baboons, and wildebeests and hunted with them in the African Savanna rainforests. He was once refered to as Tarzan but now known as Joe.
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
